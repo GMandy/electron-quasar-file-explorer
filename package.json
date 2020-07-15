@@ -6,7 +6,7 @@
   "cordovaId": "org.cordova.quasar.app",
   "author": "Jeff Galbraith <jeff.galbraith@xendra.com>",
   "private": true,
-  "repository": "https://github.com/GMandy/electron-quasar-file-explorer.git",
+  "repository": "https://github.com/GMandy/electron-quasar-file-explorer",
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
     "lint-fix": "eslint --ext .js,.vue src --fix",
